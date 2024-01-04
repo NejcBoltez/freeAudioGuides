@@ -7,8 +7,13 @@ IAUDIOGUIDE: https://iaudioguide.com/
 
 
 # LONDON, PARIS AND BRUSSELS (https://iaudioguide.com/free-london-audio-guide-and-map/)
-SPOTIFY LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
+
 ## LONDON
+
+![SPOTIFY](https://img.shields.io/badge/Audio_Guide_is_accessible_through_Spotify_playlist-grey?logo=spotify&labelColor=purple)
+
+SPOTIFY PLAYLIST LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
+
 1. Kensington Palace
 2. Hyde Park London
 3. Buckingham palace London
@@ -35,8 +40,51 @@ SPOTIFY LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
 5. Greenwich Audio Tour - The Prime Meridian - https://iaudioguide.com/london-greenwich-audio-guide-tour/
 6. Convent Garden Audio Guide - https://iaudioguide.com/the-covent-garden-london-audio-guide-by-bluebrolly/
 7. London Churches and St Paul's Cathedral Audio Guide - https://iaudioguide.com/london-churches-audio-guide-bluebrolly/
-# PARIS
-20. Catacombes and Montparnasse 
+   
+## PARIS
+
+![SPOTIFY](https://img.shields.io/badge/Audio_Guide_is_accessible_through_Spotify_playlist-grey?logo=spotify&labelColor=purple)
+
+SPOTIFY PLAYLIST LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
+
+19. Catacombes and Montparnasse Cementary Paris
+20. The Luxembourg Gardens Paris
+21. Eiffel Tower Paris
+22. Arc De Triomphe Paris
+23. The Champs Elysees
+24. The Louvre Museum
+25. Notre Dame Cathedral Paris
+26. The Palais Royal Paris
+27. The Centre Pompidou Paris
+28. The PLace Des VOsges PArs
+29. The Cinematheques Francaise - Paris
+30. Montmarte Hill Paris
+31. Sacre Coeur - Basilica of the Sacred Heart Paris
+32. Les Invalidess Paris
+33. The Pantheon Paris
+34. History of Paris
+## BRUSSELS
+
+![SPOTIFY](https://img.shields.io/badge/Audio_Guide_is_accessible_through_Spotify_playlist-grey?logo=spotify&labelColor=purple)
+
+SPOTIFY PLAYLIST LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
+
+36. Brussels Grand Palace
+37. The Guild Buildings on Grand Place Brussels
+38. The Manneken Pis
+39. Saint Michaels Cathedral Brussels
+40. Mont Des Arts Brussels
+41. Musical Instruments Museum Brussels
+42. Grand Sablon Square
+43. Petit Sablon Square
+44. Petit Sablon Park - Walk Part 1
+45. Petit Sablon PArk - Walk Part 2
+46. Palace of Justice Brussels
+47. Royal Palace and Park of Brussels
+48. Koekelberg Basilica
+49. Horta museum Brusells
+50. The Atomium
+51. Jubiller Park Brussels
 
 # SEVILLE
 Seville - Las Dueñas Palace: https://palaciolasduenas.audioguiartedigital.com/
