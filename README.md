@@ -1,5 +1,5 @@
 # freeAudioGuides
-A repositiry containing free audio and text guides in cities and museums
+This repository contains free audio and text guides for cities and museums
 
 Rick Steves guides https://www.ricksteves.com/watch-read-listen/audio/audio-tours
 
@@ -47,44 +47,45 @@ SPOTIFY PLAYLIST LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
 
 SPOTIFY PLAYLIST LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
 
-19. Catacombes and Montparnasse Cementary Paris
-20. The Luxembourg Gardens Paris
-21. Eiffel Tower Paris
-22. Arc De Triomphe Paris
-23. The Champs Elysees
-24. The Louvre Museum
-25. Notre Dame Cathedral Paris
-26. The Palais Royal Paris
-27. The Centre Pompidou Paris
-28. The PLace Des VOsges PArs
-29. The Cinematheques Francaise - Paris
-30. Montmarte Hill Paris
-31. Sacre Coeur - Basilica of the Sacred Heart Paris
-32. Les Invalidess Paris
-33. The Pantheon Paris
-34. History of Paris
+   19. Catacombes and Montparnasse Cementary Paris
+   20. The Luxembourg Gardens Paris
+   21. Eiffel Tower Paris
+   22. Arc De Triomphe Paris
+   23. The Champs Elysees
+   24. The Louvre Museum
+   25. Notre Dame Cathedral Paris
+   26. The Palais Royal Paris
+   27. The Centre Pompidou Paris
+   28. The PLace Des VOsges PArs
+   29. The Cinematheques Francaise - Paris
+   30. Montmarte Hill Paris
+   31. Sacre Coeur - Basilica of the Sacred Heart Paris
+   32. Les Invalidess Paris
+   33. The Pantheon Paris
+   34. History of Paris
+       
 ## BRUSSELS
 
 ![SPOTIFY](https://img.shields.io/badge/Audio_Guide_is_accessible_through_Spotify_playlist-grey?logo=spotify&labelColor=purple)
 
 SPOTIFY PLAYLIST LINK https://open.spotify.com/album/49TuHhEleLDUPumeiMBm5J
 
-36. Brussels Grand Palace
-37. The Guild Buildings on Grand Place Brussels
-38. The Manneken Pis
-39. Saint Michaels Cathedral Brussels
-40. Mont Des Arts Brussels
-41. Musical Instruments Museum Brussels
-42. Grand Sablon Square
-43. Petit Sablon Square
-44. Petit Sablon Park - Walk Part 1
-45. Petit Sablon PArk - Walk Part 2
-46. Palace of Justice Brussels
-47. Royal Palace and Park of Brussels
-48. Koekelberg Basilica
-49. Horta museum Brusells
-50. The Atomium
-51. Jubiller Park Brussels
+   35. Brussels Grand Palace
+   36. The Guild Buildings on Grand Place Brussels
+   37. The Manneken Pis
+   38. Saint Michaels Cathedral Brussels
+   39. Mont Des Arts Brussels
+   40. Musical Instruments Museum Brussels
+   41. Grand Sablon Square
+   42. Petit Sablon Square
+   43. Petit Sablon Park - Walk Part 1
+   44. Petit Sablon PArk - Walk Part 2
+   45. Palace of Justice Brussels
+   46. Royal Palace and Park of Brussels
+   47. Koekelberg Basilica
+   48. Horta museum Brusells
+   49. The Atomium
+   50. Jubiller Park Brussels
 
 # SEVILLE
 Seville - Las Dueñas Palace: https://palaciolasduenas.audioguiartedigital.com/
